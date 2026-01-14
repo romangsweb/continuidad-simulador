@@ -19,9 +19,5 @@
         }
       ]
     }
-  ],
-  "env": {
-    "HUBSPOT_API_KEY": "@hubspot_api_key",
-    "HUBSPOT_MEETING_URL": "@hubspot_meeting_url"
-  }
+  ]
 }
